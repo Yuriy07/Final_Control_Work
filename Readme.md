@@ -108,4 +108,4 @@ PrintArray(newArray);
 
 5. Скриншот коммитов для подтверждения.
 
->![Screenshot of commits](Screenshot_1.png)
+>![Screenshot of commits](git_log.png)
